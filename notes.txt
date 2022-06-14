@@ -1,0 +1,33 @@
+IMP NOTE::
+    In Java args contains the supplied command-line arguments 
+    as an array of String objects.
+    The reason for this is to configure your application to run
+     a particular way or provide it with some piece of information it needs.
+
+    --> Class name generally start with capital letter.
+
+TOKENS:
+    Keywords , Identifiers , Constants , Special Symbols , Operators
+
+CASTING:
+ AUtomatic casting is implicit casting      (Putting small box in Big box)
+ Manual casting is explicit casting         (Putting big box in small box)
+
+ STATIC:
+    Whenever we want to access something within the class without creating the object
+    then u need to create it as static (example create a function as static so that it
+    can be accessed without creating the object of that class.)
+
+REFERENCE TYPE: 
+    --> String s = new String("hello world");
+    Also Reference type always start with capital letter and primitive data type with small letter.
+    
+
+IMPORT AND PACKAGES:
+    --> Any class came from java.lang package doesnt need to be included in main class file.
+    --> importing class is also important becoz if there are 2 class with same name but from different packages
+        then one class can be imported and other class can be directly used, without writing import statement,
+        example :-  """java.sql.Date""" and """java.util.Date"""
+
+ARRAYS:
+    By default arrays are initialized with '0' number.
