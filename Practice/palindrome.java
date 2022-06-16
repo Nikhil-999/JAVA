@@ -1,3 +1,5 @@
+package Practice;
+
 public class palindrome {
     public static void main(String... args) {
         String a = "able was I ere I saw elba";
