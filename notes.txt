@@ -35,3 +35,12 @@ ARRAYS:
 for arrays to find length use:      arr.length;   OR    char.length;
 AND
 for String to find length use:      str.length();
+
+
+
+    <------------------------------------   OOPS     ------------------------------------->
+
+The motive behind a default constructor.
+    * Create the Object
+    * Call the super class constructor()
+    * Initialize all the instance variables of the class object.
