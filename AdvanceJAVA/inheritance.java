@@ -1,18 +1,27 @@
 package AdvanceJAVA;
 
 
-public class inheritance extends parent{
+// This is multiLevel inheritance.
+
+public class inheritance extends Parent{
     public static void main(String[] args) {
         inheritance obj = new inheritance();
+        obj.GrandParentFunction();
         obj.parentFunction();
         System.out.println(obj.name);
-        System.out.println("JElo");        
+        System.out.println("Hey, i am in the main function.");        
     }
 }
 
-class parent{
-    protected String name = "Nikhil";
+class Parent extends GrandParent{
+    protected String name = "This is a string attribute called from parent class";
     public void parentFunction(){
-        System.out.println("we are inside parent class.");
+        System.out.println("This function is called from parent class.");
+    }
+}
+
+class GrandParent{
+    protected void GrandParentFunction(){
+        System.out.println("This function is called from Grand parent class..!!");
     }
 }
