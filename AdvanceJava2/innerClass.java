@@ -1,7 +1,5 @@
 package AdvanceJava2;
 
-import javax.sound.sampled.SourceDataLine;
-
 public class innerClass{
     public static void main(String[] args) {
         System.out.println("Hello innerClass");
