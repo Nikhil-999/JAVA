@@ -99,3 +99,25 @@ private attributes are accessed through getters and setters methods.
 
 
 ***************         Java packages and API       *****************
+import package.name.Class;   // Import a single class
+import package.name.*;   // Import the whole package
+
+***************         INHERITANCE             *****************
+
+protected modifier is used in INHERITANCE a lot.
+extends keyword is used to inherit a class.
+Use final keyword to restrict the usage of a class to be inherited.
+
+---------------         TYPES OF INHERITANCE        -----------------
+
+Java supports three types of inheritance −
+
+Single Level inheritance - A class inherits properties from a single class. For example, Class B inherits Class A.
+Multilevel inheritance - A class inherits properties from a class which again has inherits properties
+Hierarchical inheritance - Multiple classes inherits properties from a single class. For example,
+                             Class B inherits Class A and Class C inherits Class A.
+
+
+******************      POLYMORPHISM        **********************
+            ---------   Many forms      -----------
+            
