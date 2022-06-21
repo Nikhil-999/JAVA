@@ -1,4 +1,4 @@
-package AdvanceJAVA;
+package AdvanceJava;
 
 
 // This is multiLevel inheritance.

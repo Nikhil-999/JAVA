@@ -1,4 +1,4 @@
-package AdvanceJAVA;
+package AdvanceJava;
 
 public class Encapsulation {
     private String name;

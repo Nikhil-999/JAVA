@@ -1,3 +1,5 @@
+package Beginner;
+
 public class Data_conversion {
     public static void main(String[] a){
         // boolean a = true;

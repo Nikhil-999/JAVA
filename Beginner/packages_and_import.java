@@ -1,3 +1,5 @@
+package Beginner;
+
 public class packages_and_import {
     public static void main(String... x) {
         int a = 56;

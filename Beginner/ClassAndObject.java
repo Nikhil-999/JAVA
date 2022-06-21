@@ -1,3 +1,5 @@
+package Beginner;
+
 public class ClassAndObject {
     public static void main(String[] args) {
         Headphones headphones1 = new Headphones("Sony", 2000);

@@ -1,3 +1,5 @@
+package Beginner;
+
 public class references {
     public static void main(String... a) {
         String name = "Nikhil SIngh";

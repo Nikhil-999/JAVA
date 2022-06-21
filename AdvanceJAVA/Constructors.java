@@ -1,4 +1,4 @@
-package AdvanceJAVA;
+package AdvanceJava;
 
 public class Constructors{
     int mark = 46;

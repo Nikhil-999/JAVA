@@ -1,3 +1,5 @@
+package Beginner;
+
 public class mathClass{
     public static void main(String... args){
         System.out.println(Math.abs(-25));

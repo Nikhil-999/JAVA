@@ -1,4 +1,4 @@
-package AdvanceJAVA;
+package AdvanceJava;
 
 public class ClassAndObjects {
     int data = 769;

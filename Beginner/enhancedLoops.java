@@ -1,3 +1,5 @@
+package Beginner;
+
 public class enhancedLoops {
     public static void main(String... args){
         int [] arr = {20,60,98,34,88,55,762,95};

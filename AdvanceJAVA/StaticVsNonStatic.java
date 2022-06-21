@@ -1,4 +1,4 @@
-package AdvanceJAVA;
+package AdvanceJava;
 
 public class StaticVsNonStatic {
     // This is static method and attributes

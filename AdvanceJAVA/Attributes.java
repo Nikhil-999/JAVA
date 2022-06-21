@@ -1,4 +1,4 @@
-package AdvanceJAVA;
+package AdvanceJava;
 
 public class Attributes{
     int marks = 89;
