@@ -42,5 +42,10 @@ public class ArrayListInJava{
         for(int i=0 ; i<demo.size() ; i++){
             System.out.print(demo.get(i) + " ");
         }
+        System.out.println();
+
+        for(int element: demo){
+            System.out.print(element + " ");
+        }
     }
 }
