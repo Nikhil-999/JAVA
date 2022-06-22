@@ -173,3 +173,10 @@ The ArrayList class is a resizable array, which can be found in the java.util pa
 
     *#  //toString method is invoked whenever we pass object to sout.
         //Every class has toString has method to print their objects easily.
+
+
+****************        Stack           ********************
+## Methods available:
+        .push();
+        .pop();
+        .peek();                --- To view top element. 
