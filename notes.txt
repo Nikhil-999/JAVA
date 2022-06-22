@@ -137,3 +137,20 @@ The abstract keyword is a non-access modifier, used for classes and methods:
 # Abstract method: can only be used in an abstract class, and it does not have a body.
     The body is provided by the subclass (inherited from). 
 
+
+*******************     Interface       ***********************
+
+Interface methods are by default abstract and public.
+Interface attributes are by default public, static and final.   
+An interface cannot contain a constructor (as it cannot be used to create objects).
+
+******************      Enums           ***********************
+
+An enum can, just like a class, have attributes and methods. 
+The only difference is that enum constants are public, 
+static and final (unchangeable - cannot be overridden).
+
+An enum cannot be used to create objects, and it cannot 
+extend other classes (but it can implement interfaces).
+
+****************

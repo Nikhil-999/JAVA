@@ -23,5 +23,3 @@ abstract class parent{
             System.out.println("This is my function inside abstract class.");
         }
 }
-
-
