@@ -1,0 +1,17 @@
+                                                                Collection
+                                                                     |
+                                                                     |
+                                                                     |
+                                        ---------------------------------------------------------------
+#(these are interfaces                  |                            |                                |  
+   list,set and queue                   |                            |                                |
+   whose method's body                #LIST                         #SET                              #Queue
+   is defined into 
+   following data structure's         *ArrayList                    *EnumSet                          *ArrayDeque
+   classes.)                          *LinkedList                   *HashSet                          *LinkedList
+                                      *Stack                        *LinkedHashSet                    *PriorityQueue
+                                      *Vector                       *TreeSet
+
+
+#############################################################################################################################################
+
