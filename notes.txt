@@ -186,3 +186,26 @@ The ArrayList class is a resizable array, which can be found in the java.util pa
         .offer(number)  -adds the value to tail of queue  ,     .add(number)    -throws an exception if task fails
         .poll()    -remove value from head   ,                  .remove()       -throws an exception if task fails
         .peek()    -returns the head of the queue    ,          .element()      -throws an exception if task fails
+
+*****************	ArrayDeque		************************
+## Methods available:
+	.offer(number);	,	.offerFirst();	,	.offerLast();
+	.poll();	,	.pollFirst();	,	.pollLast();
+	.peek();	,	.peekFirst();	,	.peekLast();
+
+*****************       set         *********************
+
+Set which stores unique value and in sorted order we use TreeSet.
+Use HashSet data structure for better optimized data manipulation.
+
+
+*****************       MAP         *******************
+ALSO SET , LIST AND QUEUE ARE USED TO STORE DATA IN DIFFERENT FASHION BUT 
+MAPS USES KEY,VALUE PAIR METHOD TO STORE VALUES.
+
+Map interface is implemented by these different classes:
+        HashMap
+        TreeMap
+        EnumMap
+        LinkedHashMap
+        WeakHashMap
