@@ -93,7 +93,7 @@ volatile : The value of an attribute is not cached thread-locally, and is always
 
 ***************        JAVA ENCAPSULATION           *****************
 
-Privacy of data is maintained by decalering the variables as private and these 
+Privacy of data is maintained by declaring the variables as private and these 
 private attributes are accessed through getters and setters methods.
     (((easy)))
 
@@ -116,6 +116,8 @@ Single Level inheritance - A class inherits properties from a single class. For 
 Multilevel inheritance - A class inherits properties from a class which again has inherits properties
 Hierarchical inheritance - Multiple classes inherits properties from a single class. For example,
                              Class B inherits Class A and Class C inherits Class A.
+
+    ## NOTE : To prevent ambiguity, multiple inheritance is not allowed in java.
 
 
 ******************      POLYMORPHISM        **********************
@@ -173,6 +175,17 @@ The ArrayList class is a resizable array, which can be found in the java.util pa
 
     *#  //toString method is invoked whenever we pass object to sout.
         //Every class has toString has method to print their objects easily.
+
+
+****************	LinkedList	********************
+# these are the additional methods provided in linkedlist rather than in arrayList.
+
+addFirst()	Adds an item to the beginning of the list.	
+addLast()	Add an item to the end of the list	
+removeFirst()	Remove an item from the beginning of the list.	
+removeLast()	Remove an item from the end of the list	
+getFirst()	Get the item at the beginning of the list	
+getLast()	Get the item at the end of the list
 
 
 ****************        Stack           ********************
