@@ -222,3 +222,12 @@ Map interface is implemented by these different classes:
         EnumMap
         LinkedHashMap
         WeakHashMap
+
+
+*****************       Cursors     ******************
+
+If we want to retrieve objects one by one from the collection, then we should go for cursors.
+There are 3 types of cursors available in java.
+    -Enumeration
+    -Iterator
+    -ListIterator
