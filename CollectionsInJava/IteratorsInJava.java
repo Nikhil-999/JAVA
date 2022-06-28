@@ -1,3 +1,5 @@
+package CollectionsInJava;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 

@@ -1,3 +1,5 @@
+package CollectionsInJava;
+
 import java.util.*;
 
 public class QueueInJava {
