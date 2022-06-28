@@ -30,6 +30,8 @@ class emp{
         this.state = location;
     }
 
+    
+
     public String toString(){
         return "Employee name : " + name + "\nEmployee age : " + age + "\nEmployee's HomeState : " + state;
 
