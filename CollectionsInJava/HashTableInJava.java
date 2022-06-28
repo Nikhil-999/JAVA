@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Enumeration;
 import java.util.Hashtable;
 
@@ -31,5 +32,14 @@ public class HashTableInJava{
         } 
 
         System.out.println(demo.isEmpty());
+
+        int nik[] = {10,20};
+        demoFunc(nik);
+        System.out.println(Arrays.toString(nik));
+    }
+
+    public static void demoFunc(int yoy[]){
+            yoy[0]++;
+            yoy[1]++;
     }
 }

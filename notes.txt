@@ -6,6 +6,10 @@ IMP NOTE::
 
     --> Class name generally start with capital letter.
 
+
+IMPORTANT : Java is all about pass by value.
+
+
 TOKENS:
     Keywords , Identifiers , Constants , Special Symbols , Operators
 
