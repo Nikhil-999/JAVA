@@ -10,7 +10,12 @@ public class Practice1{
         demo.add(new emp("Nitin rana", 999, "Himachal Pradesh"));
         demo.add(new emp("XYZ", 00, "Delhi"));
 
-        System.out.println(demo.get(1));
+        // System.out.println(demo.get(1));
+
+        for(emp a: demo){
+            System.out.println(a);
+            System.out.println();
+        }
     }
 }
 
