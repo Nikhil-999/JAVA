@@ -167,14 +167,14 @@ The ArrayList class is a resizable array, which can be found in the java.util pa
 ## Methods available:
         .add(number);
         .add(index,number);
-        .addAll(any collection here like another arrayList);
+        .addAll(any collection here, like another arrayList);
         .get(index);
         .remove(index);
         .remove(Integer.valueOf(number));
         .clear();
         .set(index,updated value);                  --- Used to update any element at specific index.
-        .contains(number);                  --- Check if the number is present in the list or not 
-                                                return true or false.
+        .contains(number);                      --- Check if the number is present in the list or not 
+                                                    return true or false.
         .size();                        --- size of the arraylist(number of element present in list).
 
     *#  //toString method is invoked whenever we pass object to sout.
