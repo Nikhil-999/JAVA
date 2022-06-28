@@ -235,3 +235,20 @@ There are 3 types of cursors available in java.
     -Enumeration
     -Iterator
     -ListIterator
+
+*****************       Wrapper classes         ****************
+
+Wrapper classes provide a way to use primitive data types (int, boolean, etc..) as objects.
+
+*****************       Exceptions in java      ****************
+
+try , catch , finally are basic keywords used in error handling.
+
+throw :-- This keyword is used to create custom error.
+                The throw statement is used together with an exception type. 
+                There are many exception types available in Java: ArithmeticException,
+                FileNotFoundException, ArrayIndexOutOfBoundsException, SecurityException, etc:
+
+****************        Lambda Expression       ******************
+
+Lambda expressions are usually passed as parameters to a function.
