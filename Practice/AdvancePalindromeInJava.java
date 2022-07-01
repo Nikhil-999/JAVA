@@ -1,4 +1,4 @@
-public class yoyo {
+public class AdvancePalindromeInJava{
     public static void main(String[] args) {
         System.out.println(call("c1 O$d@eeD o1c"));
     }
@@ -38,8 +38,10 @@ public class yoyo {
         if((a>='a' && a<='z')){
             return a;
         }
-        a = (char) (a - 'A' + 'a');
+        // a = (char) (a - 'A' + 'a');              this is also work
+        // return a;
+        char temp = (char)(a - 'A' + 'a');           
 
-        return a;
+        return temp;
     }
 }
