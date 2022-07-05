@@ -24,6 +24,7 @@ public class MaximumOccuringCharacter {
                 index = i;
             }
         }
+        
         return (char)('a' + index);
     }
 }

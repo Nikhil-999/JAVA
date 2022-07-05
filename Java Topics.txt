@@ -1,0 +1,36 @@
+Topics covered in JAVA :
+
+Data types.
+Arrays and their methods.
+String and it's methods.
+Loops.
+If else , switch statement and ternary operator.
+Important classes of java like : Math , scanner.
+
+
+* Java Method Parameters
+* Java Method Overloading
+
+
+- JAVA OOPS 
+- four pillars of OOPS : ENCAPSULATION , Abstraction , inheritance and POLYMORPHISM.
+- Inner classes
+- Interfaces
+- Enums
+- Java Exception handling 
+- Java MultiThreading
+- Java Lambda expression
+- Java Wrapper Classes.
+
+
+Java Collections and Iteration , Enumeration.
+    - ArrayList
+    - ArrayDeque
+    - HashTable
+    - HashMap
+    - Queue
+    - Priority Queue
+    - Maps
+    - SetHash
+    - Stack
+    - Iterator
