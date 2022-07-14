@@ -1,1 +1,5 @@
 Note: String objects are stored in a special memory area known as the "string constant pool".
+
+The == operator compares references not values. When it comes to string.
+
+so it is recommended to always use equals() method when string values need to be compared. 
